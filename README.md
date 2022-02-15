@@ -1,3 +1,6 @@
+klaytn 기반 서비스 개발을 위해 스터디차원으로 진행한 clone 프로젝트입니다.
+![스크린샷 2022-02-15 오후 3 04 50](https://user-images.githubusercontent.com/304667/154003824-0bc09659-e4ed-4750-b77a-241d392a8bf5.png)
+
 # Klaystagram Project
 
 ### Table of contents
